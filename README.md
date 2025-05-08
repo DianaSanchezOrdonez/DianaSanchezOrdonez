@@ -18,6 +18,11 @@
 - 🛍️ Experience working on **Shopify migrations**, including **Liquid templates** and **Storefront API (GraphQL)**
 - 🧪 Write clean, testable code ready for production
 
+### 🔍 Currently Learning
+- 💻 Machine Learning fundamentals (Python, Pandas, Scikit-Learn)
+- 🤖 AI concepts and real-world applications
+- 📁 Preparing to apply this knowledge in Data Science projects
+
 ## 📫 Let’s Connect!
 
 Feel free to reach out if you’re interested in collaborating, have questions, or just want to chat tech!
